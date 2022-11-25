@@ -1,0 +1,14 @@
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\bin\Debug\net6.0\NordicDoor.Utility.deps.json
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\bin\Debug\net6.0\NordicDoor.Utility.runtimeconfig.json
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\bin\Debug\net6.0\NordicDoor.Utility.dll
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\bin\Debug\net6.0\NordicDoor.Utility.pdb
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.csproj.AssemblyReference.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.AssemblyInfoInputs.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.AssemblyInfo.cs
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.dll
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\refint\NordicDoor.Utility.dll
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.pdb
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\NordicDoor.Utility.genruntimeconfig.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.Utility\obj\Debug\net6.0\ref\NordicDoor.Utility.dll

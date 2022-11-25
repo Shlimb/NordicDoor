@@ -1,0 +1,17 @@
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.AssemblyInfo.cs
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\bin\Debug\net6.0\NordicDoor.DataAccess.deps.json
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\bin\Debug\net6.0\NordicDoor.DataAccess.runtimeconfig.json
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\bin\Debug\net6.0\NordicDoor.DataAccess.dll
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\bin\Debug\net6.0\NordicDoor.DataAccess.pdb
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\bin\Debug\net6.0\NordicDoor.Models.dll
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\bin\Debug\net6.0\NordicDoor.Models.pdb
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.csproj.CopyComplete
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.dll
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\refint\NordicDoor.DataAccess.dll
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.pdb
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\NordicDoor.DataAccess.genruntimeconfig.cache
+C:\Users\Shlirim\Desktop\VS Prosjeketer\NordicDoor\NordicDoor.DataAccess\obj\Debug\net6.0\ref\NordicDoor.DataAccess.dll

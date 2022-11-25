@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordicDoorWeb", "NordicDoorWeb\NordicDoorWeb.csproj", "{B5157257-0BED-4FBB-8B88-D8D44FA2BA95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordicDoor.DataAccess", "NordicDoor.DataAccess\NordicDoor.DataAccess.csproj", "{D96CC7A2-B177-462A-8D96-7ED439BAC4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordicDoor.Models", "NordicDoor.Models\NordicDoor.Models.csproj", "{64DEC50B-E4E9-4051-B415-907E2C3DBE96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordicDoor.Utility", "NordicDoor.Utility\NordicDoor.Utility.csproj", "{7D6B7697-FF6C-4075-9679-5550E62CB664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5157257-0BED-4FBB-8B88-D8D44FA2BA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5157257-0BED-4FBB-8B88-D8D44FA2BA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5157257-0BED-4FBB-8B88-D8D44FA2BA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5157257-0BED-4FBB-8B88-D8D44FA2BA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96CC7A2-B177-462A-8D96-7ED439BAC4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96CC7A2-B177-462A-8D96-7ED439BAC4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96CC7A2-B177-462A-8D96-7ED439BAC4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96CC7A2-B177-462A-8D96-7ED439BAC4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DEC50B-E4E9-4051-B415-907E2C3DBE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DEC50B-E4E9-4051-B415-907E2C3DBE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DEC50B-E4E9-4051-B415-907E2C3DBE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DEC50B-E4E9-4051-B415-907E2C3DBE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6B7697-FF6C-4075-9679-5550E62CB664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6B7697-FF6C-4075-9679-5550E62CB664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6B7697-FF6C-4075-9679-5550E62CB664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6B7697-FF6C-4075-9679-5550E62CB664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDC23BB-CD2A-4707-8332-CECCAE5C4FDA}
+	EndGlobalSection
+EndGlobal
