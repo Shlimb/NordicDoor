@@ -10,6 +10,7 @@ public class ApplicationDbContext :DbContext
 	}
 
 	public DbSet<Suggestion> Suggestions { get; set; }
+    public DbSet<Forslag> Forslags { get; set; }
 
 }
 
